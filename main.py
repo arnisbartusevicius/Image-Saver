@@ -12,11 +12,11 @@ if os.path.isfile("./filedir.txt") == False or os.stat("filedir.txt").st_size ==
 print("Saving Image...") # Displays that it's saving the image in the terminal
 img = ImageGrab.grabclipboard() # Grabs image from clipboard
 
-if isinstance(img, Image.Image) == False: # Checks if clipboard has an image
+if isinstance(img, Image.Image) == False: # If clipboard doesn't have an image:
     print("You do not have an image saved in your clipboard.") # Tells the user that they don't have an image in the clibpard
     time.sleep(1) # Waits one second
     quit() # Closes the program
-else:
+else: # If clipboard has an image:
     filedir = open("filedir.txt", "r") # Opens filedir.txt in read mode
     img.save(filedir.read()) # Saves image in the path located in filedir.txt
     print("Image saved") # Displays that the image was saved in the terminal
