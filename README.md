@@ -9,6 +9,8 @@ Simple application that **saves an image to a specified file directory.**
 - Each Line Of **Code** In main.py Is **Explained**
 ## Installation
 
+- Install Python3 Here: https://www.python.org/downloads/
+
 - Open Command Prompt With Administrative Privileges
 
 - Run the following commands
