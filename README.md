@@ -6,7 +6,7 @@ Simple application that **saves an image to a specified file directory.**
 
 - Select A File Path To Save Images To **Only Once**
 - **Fast** And **Effortless**
-- Each Line Of **Code** In main.py Is **Explained**
+- Each Line Of **Code Is Explained**
 ## Installation
 
 - Install Python3 Here: https://www.python.org/downloads/
