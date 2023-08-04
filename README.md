@@ -1,30 +1,27 @@
 
 # Arnis' Image Saver
 
-Simple application that **saves an image to a specified file directory.**
+Simple application that **saves copied images to a specified file directory.**
 ## Features
 
-- Select A File Path To Save Images To **Only Once**
+- **Select A File Path** To Save Images To **Only Once**
 - **Fast** And **Effortless**
 - Each Line Of **Code Is Explained**
+- **Easy Installation**
 ## Installation
 
-- Install Python3 Here: https://www.python.org/downloads/
+- Install **Python 3** [Here](https://www.python.org/downloads/)
 
-- Open Command Prompt With Administrative Privileges
+- Install The **Image Saver .exe** [Here](https://github.com/arnisbartusevicius/Image-Saver/releases/)
 
-- Run the following commands
+- Run The .exe And **Select A Directory** Where Your Copied Images Get Saved To
 
-```bash
-  pip install pillow
-```
-
-```bash
-  pip install easygui
-```
+- If You Want To **Change The Directory** You Can **Delete** The **filedir.txt** File Located Where You Put The .exe File
 ## Feedback
 
-If you have any feedback, please reach out to me at arnisbartusevicius@proton.me
+If you have any feedback, please reach out to me at arnisbartusevicius@proton.me 
+
+Alternatively you can reach out to me on [Discord](https://discord.com/): @_arnis
 
 
 ## Authors
